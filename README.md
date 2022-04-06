@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkkyB
-- 👀 I’m passionate about Automation with Java using Selenium WebDrive 
-- 💞️ I’m looking to collaborate on automation
+- 👀 I’m passionate about Automation with Java using Selenium WebDriver 
+- 💞️ I’m looking to collaborate on automation frameworks and challenges
 
 <!---
 AkkyB/AkkyB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
